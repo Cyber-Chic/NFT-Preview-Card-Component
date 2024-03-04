@@ -43,7 +43,7 @@ To create a NFT preview card component and have it look as close to the original
 
 ### What I learned
 
-I learned how to use the :hover selector to swap images, add borders & how to use Grid properties to style my project. I also reinforced my knowledge of how to format text, images & background elements.
+I learned how to use the :hover selector to swap images, add image borders & how to use Grid properties to style my project. I also reinforced my knowledge of how to format text, images & background elements.
 
 ### Useful resources
 
@@ -56,4 +56,4 @@ I learned how to use the :hover selector to swap images, add borders & how to us
 - Website - [Angie Moore Profile](https://linktr.ee/angie_moore)
 - Frontend Mentor - [@Cyber-Chic](https://www.frontendmentor.io/profile/Cyber-Chic)
 - Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
-- YouTube - [Angela Moore NY Times Ad](https://www.youtube.com/watch?v=3yS19NcRQt8&ab_channel=TBrandStudio)
+- YouTube - [Angela Moore Feature Video](https://www.youtube.com/watch?v=3yS19NcRQt8&ab_channel=TBrandStudio)
