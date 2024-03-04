@@ -29,7 +29,7 @@ To create a NFT preview card component and have it look as close to the original
 ### Links
 
 - Solution URL: [My Official Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [My Live NFT Preview Card Component Website](https://cyber-chic.github.io/)
+- Live Site URL: [My Live NFT Preview Card Component Website]([https://cyber-chic.github.io/](https://cyber-chic.github.io/NFT-Preview-Card-Component/))
 
 ## My process
 
