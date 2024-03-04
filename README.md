@@ -20,7 +20,10 @@ This project contains my NFT preview card component design replication.  It is t
 
 ### The challenge
 
-To create a NFT preview card component and have it look as close to the original design as possible.  Users must be able to view the optimal layout for their device's screen size & see the hover states for elements that are interactive.
+To create a NFT preview card component and have it look as close to the original design as possible.  Users must be able to: 
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
 ### Screenshot
 
@@ -43,7 +46,7 @@ To create a NFT preview card component and have it look as close to the original
 
 ### What I learned
 
-I learned how to use the :hover selector to swap images, add image borders & how to use Grid properties to style my project. I also reinforced my knowledge of how to format text, images & background elements.
+I learned how to use the :hover selector to swap images, add image borders & how to use basic Grid properties to style my project. I also reinforced my knowledge of how to format text, images & background elements.
 
 ### Useful resources
 
