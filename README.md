@@ -1,6 +1,6 @@
-# Frontend Mentor - NFT Solution
+# Frontend Mentor - NFT Preview Card Component Solution
 
-This is a solution to the [NFT challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) hosted on Frontend Mentor.
+This is a solution to the [NFT preview card component challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) hosted on Frontend Mentor.
 Frontend Mentor requires the use of front end skills to create websites and solve real world coding challenges.
 
 ## Table of contents
@@ -20,10 +20,13 @@ This project contains my NFT preview card component design replication.  It is t
 
 ### The challenge
 
-To create a NFT preview card component and have it look as close to the original design as possible.  Users must be able to: 
+To create a NFT preview card component and have it look as close to the original design as possible.  
+
+Users must be able to: 
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
+
 
 ### Screenshot
 
@@ -31,7 +34,7 @@ To create a NFT preview card component and have it look as close to the original
 
 ### Links
 
-- Solution URL: [My Official Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/)
+- Solution URL: [My Official Solutions on Frontend Mentor](https://www.frontendmentor.io/profile/Cyber-Chic)
 - Live Site URL: [My Live NFT Preview Card Component Website](https://cyber-chic.github.io/NFT-Preview-Card-Component/)
 
 ## My process
@@ -56,7 +59,7 @@ I learned how to use the :hover selector to swap images, add image borders & how
 
 ## Author
 
-- Website - [Angie Moore Profile](https://linktr.ee/angie_moore)
+- Website - [Angie Moore](https://linktr.ee/angie_moore)
 - Frontend Mentor - [@Cyber-Chic](https://www.frontendmentor.io/profile/Cyber-Chic)
 - Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
-- YouTube - [Angela Moore Feature Video](https://www.youtube.com/watch?v=3yS19NcRQt8&ab_channel=TBrandStudio)
+- YouTube - [Angela Moore Featured Video](https://www.youtube.com/watch?v=3yS19NcRQt8&ab_channel=TBrandStudio)
