@@ -43,7 +43,7 @@ To create a NFT preview card component and have it look as close to the original
 
 ### What I learned
 
-I learned how to use the :hover selector to swap images & how to use Grid properties to style my project. I also reinforced my knowledge of how to format text, images & background elements.
+I learned how to use the :hover selector to swap images, add borders & how to use Grid properties to style my project. I also reinforced my knowledge of how to format text, images & background elements.
 
 ### Useful resources
 
