@@ -80,11 +80,11 @@ body {
 hr {
   border: none;
   background-color: hsl(215, 32%, 27%);
-  height: 1px;
-  width: 90%;
+  height: .01em;
+  width: 100%;
   top: -1rem;
   position: relative;
-  margin-right: 15rem;
+  margin-left: -1rem;
 }
 
 .juleswyvern {
