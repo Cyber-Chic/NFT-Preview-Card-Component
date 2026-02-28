@@ -1,4 +1,4 @@
-# Frontend Mentor - NFT Preview Card Component Solution
+# 💻 Frontend Mentor NFT Preview // THE MOORE SIGNAL
 
 This is a solution to the [NFT preview card component challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) hosted on Frontend Mentor.
 Frontend Mentor requires the use of front end skills to create websites and solve real world coding challenges.
@@ -56,13 +56,6 @@ I learned how to use the :hover selector to swap images, add image borders & how
 - [Prettier · Opinionated Code Formatter](https://prettier.io/) - This helped me format my code.
 - [StackBlitz](https://stackblitz.com/) - This is where I created my project.
 - [YouTube Grid Tutorial - Kevin Powell](https://www.youtube.com/watch?v=_lEkD8IGkwo) - This excellent tutorial helped me to understand the basics of Grid.
-
-## Author
-
-- Website - [Angie Moore](https://linktr.ee/angie_moore)
-- Frontend Mentor - [@Cyber-Chic](https://www.frontendmentor.io/profile/Cyber-Chic)
-- Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
-- YouTube - [Angela Moore Featured Video](https://www.youtube.com/watch?v=3yS19NcRQt8&ab_channel=TBrandStudio)
 
 # Sponsors
 ### [ 🛰️ PROJECT SUBSYSTEM ]
