@@ -61,10 +61,7 @@ I learned how to use the :hover selector to swap images, add image borders & how
 
 ### [ 🛰️ ARCHIVE_LOG ]
 **The Moore Signal Archive // Foundational Technical Studies**  
-*Independent inquiry into responsive UI logic and "Digital-Physical" design fidelity.*
-
----
-**SIGNAL STATUS: 🟢 NOMINAL**  
-**PI: A N MOORE // (PENDING) THE MOORE SIGNAL ARCHIVE LLC**  
 
 > *“To architect a life where data has a soul, and science has a signature.”*
+
+**SIGNAL STATUS: 🟢 NOMINAL**  
