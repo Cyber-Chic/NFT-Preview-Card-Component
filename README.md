@@ -57,19 +57,14 @@ I learned how to use the :hover selector to swap images, add image borders & how
 - [StackBlitz](https://stackblitz.com/) - This is where I created my project.
 - [YouTube Grid Tutorial - Kevin Powell](https://www.youtube.com/watch?v=_lEkD8IGkwo) - This excellent tutorial helped me to understand the basics of Grid.
 
-# Sponsors
-### [ 🛰️ PROJECT SUBSYSTEM ]
-**Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
-*Bridging the gap between digital code and physical reality.*
+---
 
-**EXPLORE THE NETWORK:**
-*   **🔭 RESEARCH:** [NASA Exoplanet Watch Data](https://github.com/Cyber-Chic/nasa)
-*   **🧪 ARCHIVE:** [The Moore Archive | Physical Artifact Hunt](https://emaze.me/tma)
-*   **📡 TERMINAL:** [Cyber-Chic Home & Protocols](https://github.com/Cyber-Chic)
-
-**[ ☕ MISSION SUSTENANCE ]**
-Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.  
-[**➡️ SUPPORT THE JOURNEY VIA PAYPAL**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE)
+### [ 🛰️ ARCHIVE_LOG ]
+**The Moore Signal Archive // Foundational Technical Studies**  
+*Independent inquiry into responsive UI logic and "Digital-Physical" design fidelity.*
 
 ---
-**ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
+**SIGNAL STATUS: 🟢 NOMINAL**  
+**PI: A N MOORE // (PENDING) THE MOORE SIGNAL ARCHIVE LLC**  
+
+> *“To architect a life where data has a soul, and science has a signature.”*
