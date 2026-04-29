@@ -60,8 +60,8 @@ I learned how to use the :hover selector to swap images, add image borders & how
 ---
 
 ### [ 🛰️ ARCHIVE_LOG ]
-**The Moore Signal Archive // Foundational Technical Studies**  
+**The Moore Signal Archive LLC // Foundational Technical Studies**  
 
-> *“To architect a life where data has a soul, and science has a signature.”*
+> *“I want to live as though I traveled back in time... To this very moment.”*
 
 **SIGNAL STATUS: 🟢 NOMINAL**  
